@@ -23,7 +23,7 @@ print("\n The Surface area of a Sphere = %.2f" %sa)
 print("\n The Volume of a Sphere = %.2f" %Volume)
 
 
-Pyramid
+#Pyramid
 PI = 3.14
 radius = float(input('Please Enter the Radius of a Cylinder: '))
 height = float(input('Please Enter the Height of a Cylinder: '))
